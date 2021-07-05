@@ -1,3 +1,7 @@
+## Welcome to Recipe Jail (RJL)
+
+The template can be found here [recipeTemplate.md](recipeTemplate.md)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/arejayelle/recipe-jail/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
