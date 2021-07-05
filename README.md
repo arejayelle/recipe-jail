@@ -8,4 +8,4 @@ A jail for recipes
 
 ## Template
 
-template to copy and modify can eb found ![here](temp link)
+Template to copy and modify can be found [here](https://github.com/arejayelle/recipe-jail/blob/main/template.md)
