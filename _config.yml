@@ -1,6 +1,7 @@
+theme: jekyll-theme-minimal
 defaults:
   -
     values:
       layout: "default"
 
-theme: jekyll-theme-minimal
+
