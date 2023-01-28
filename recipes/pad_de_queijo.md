@@ -11,7 +11,7 @@ Brazilian cheese bread
 - 80g parmesan
 - 3g salt
 ### Hand mix ingredients
-- 180g mixed mozzarella and cheddar
+- 240g mixed mozzarella and cheddar
 - 215g tapioca flour
 
 ## Method.
