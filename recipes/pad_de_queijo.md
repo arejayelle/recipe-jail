@@ -13,7 +13,7 @@ Brazilian cheese bread
 - 3g salt
 ### Hand mix ingredients
 - 80g mozzarella
-- 250g tapioca flour
+- 200g tapioca flour
 
 ## Method.
 1. Combine `blended ingredient` with a blender
