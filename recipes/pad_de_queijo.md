@@ -4,19 +4,20 @@ Brazilian cheese bread
 
 ## Ingredients.
 ### Blended ingredients
-- 1 egg
-- 59g olive oil
-- 160ml milk
-- 50g tapioca flour
-- 80g parmesan
-- 3g salt
+- 2 egg
+- 90g olive oil
+- 220ml milk
+- 120g parmesan
+- 6g salt
 ### Hand mix ingredients
-- 240g mixed mozzarella and cheddar
-- 215g tapioca flour
+- 360g mixed mozzarella and cheddar
+- 400g tapioca flour
 
 ## Method.
 1. Combine `blended ingredient` with a blender
 1. Combine the blended mix with the `hand mix` ingredients
-1. Shape into 50g balls and place on a baking sheet
+1. Place into rectangular container.
+1. Refrigerate for 30 minutes
+1. Cut into 32 even blocks
 1. Bake at 400F for 20min
 1. Let cool for 10min
