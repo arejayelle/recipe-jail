@@ -14,5 +14,5 @@ Brazilian cheese bread
 ## Method.
 1. Combine all in blender
 1. Pour into mini muffin tray
-1. Bake at 400F for 20min
+1. Bake at 350F for 30min
 1. Let cool for 10min
