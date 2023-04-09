@@ -5,8 +5,8 @@ Brazilian cheese bread
 ## Ingredients.
 ### Blended ingredients
 - 2 egg
-- 90g olive oil
-- 220ml milk
+- 75g olive oil
+- 185ml milk
 - 120g parmesan
 - 6g salt
 ### Hand mix ingredients
